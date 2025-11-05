@@ -29,9 +29,12 @@ This extension pack includes the following extensions:
 
 ## Installation
 
-1. Install this extension pack from the VS Code marketplace
-2. All included extensions will be automatically installed
-3. Restart VS Code if prompted
+1. Open VS Code
+2. Press `Ctrl+Shift+P` to open the command palette
+3. Type `Extensions: Install Extension Pack from VSIX...` and select it
+4. Select the downloaded `.vsix` file for this extension pack
+5. All included extensions will be automatically installed
+6. Restart VS Code if prompted
 
 ## Usage
 
@@ -47,7 +50,7 @@ Once installed, all the extensions will be available and configured for optimal 
 
 - VS Code 1.105.0 or later
 - For Python development: Python 3.6 or later installed on your system
-- For Copilot features: GitHub Copilot subscription
+- For Copilot features: GitHub Copilot subscription may be required
 
 ## Contributing
 
