@@ -29,12 +29,13 @@ This extension pack includes the following extensions:
 
 ## Installation
 
-1. Open VS Code
-2. Press `Ctrl+Shift+P` to open the command palette
-3. Type `Extensions: Install Extension Pack from VSIX...` and select it
-4. Select the downloaded `.vsix` file for this extension pack
-5. All included extensions will be automatically installed
-6. Restart VS Code if prompted
+1. Download the latest .vsix file from the [GitHub Releases](https://github.com/VT-Cameron-Burger/web-python-development-pack/releases) page.
+2. Open VS Code
+3. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac) to open the command palette
+4. Type `Extensions: Install Extension Pack from VSIX...` and select it
+5. Select the downloaded `.vsix` file
+6. All included extensions will be automatically installed
+7. Restart VS Code if prompted
 
 ## Usage
 
@@ -42,7 +43,7 @@ Once installed, all the extensions will be available and configured for optimal 
 
 - Python files will have full IntelliSense, debugging, and formatting support
 - HTML/CSS/JS files will have autocompletion, linting, and formatting
-- Use Prettier to format your code (Ctrl+Shift+P → "Format Document")
+- Use Prettier to format your code (`Ctrl+Shift+P` / `Cmd+Shift+P` → "Format Document")
 - Use ESLint to catch JavaScript errors and style issues
 - Take advantage of GitHub Copilot for AI-assisted coding
 
