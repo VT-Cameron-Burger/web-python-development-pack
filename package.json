@@ -1,0 +1,48 @@
+{
+  "name": "web-python-development-pack",
+  "displayName": "Web & Python Development Pack",
+  "description": "Essential extensions for HTML/CSS/JS and Python development",
+  "version": "0.0.1",
+  "publisher": "cameron-burger",
+  "author": {
+    "name": "Cameron Burger"
+  },
+  "license": "MIT",
+  "keywords": [
+    "python",
+    "web development",
+    "html",
+    "css",
+    "javascript",
+    "extension pack",
+    "development tools"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VT-Cameron-Burger/web-python-development-pack"
+  },
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.debugpy",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "stylelint.vscode-stylelint",
+    "github.copilot",
+    "github.copilot-chat"
+  ],
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.2"
+  }
+}
